@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTyoeApplication", "Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decisions", "Decisions\Decisions.csproj", "{FC0A294A-C565-4ED7-A496-AF9906928805}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeclaringConstants", "DeclaringConstants\DeclaringConstants.csproj", "{FECD84FF-675D-4C14-B9F5-F84413BA3C2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FC0A294A-C565-4ED7-A496-AF9906928805}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC0A294A-C565-4ED7-A496-AF9906928805}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC0A294A-C565-4ED7-A496-AF9906928805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FECD84FF-675D-4C14-B9F5-F84413BA3C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECD84FF-675D-4C14-B9F5-F84413BA3C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECD84FF-675D-4C14-B9F5-F84413BA3C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECD84FF-675D-4C14-B9F5-F84413BA3C2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
